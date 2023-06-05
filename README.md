@@ -1,3 +1,4 @@
+
 # Recipe Manager
 
 Recipe Manager is a Java application used to manage recipes and ingredients. It consists of two main services: `IngredientService` and `RecipeService`.
