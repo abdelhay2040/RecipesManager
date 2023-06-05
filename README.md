@@ -37,3 +37,12 @@ For unit testing, we use JUnit 4. All service methods are covered with tests to 
 You need to have Java and Maven installed on your machine to run the application. After cloning the repository, navigate to the project directory and use the command `mvn spring-boot:run` to start the application.
 
 you can use http://localhost:8080/swagger-ui/index.html to call the endpoints 
+
+## Future Work
+
+In the upcoming versions of Recipe Manager, we are planning to improve and expand the functionalities as follows:
+
+- **Integration Testing**: Along with unit tests, I will also be incorporating integration tests using frameworks like Spring Boot Test or Testcontainers. This will allow us to verify the interaction of our services with each other and with the database.
+
+- **Increase Test Coverage**: I aim to increase our test coverage to ensure all paths in the code are tested. This will help us catch and resolve potential issues earlier in the development process. This might involve using tools like JaCoCo to assess and improve our test coverage.
+
